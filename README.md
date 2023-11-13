@@ -10,11 +10,6 @@ Loic Orbit Ion Cannon.
 
 ## Getting Started
 
-To get started with the project, simply clone the repository to your local machine:
-
-```
-git clone https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023.git
-```
 
 ## Requirements
 
