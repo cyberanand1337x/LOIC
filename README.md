@@ -26,5 +26,15 @@ To use the project, follow these steps:
 
 - Open the terminal and run the following command:
 - `cd ddos-attack`
-- `pip install -r requirements.txt`
-- `python3 ddos.py`
+- `sudo su
+apt update
+apt install git -y
+apt install mono-complete -y
+git clone https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023.git
+ls
+cd Low-Orbit-Ion-Cannon-2023
+ls
+chmod 777 loic.sh
+./loic.sh install
+./loic.sh update
+./loic.sh run
