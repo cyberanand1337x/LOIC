@@ -1,6 +1,6 @@
 #!/bin/bash
-# Copyfuck © 2010 q
-# Edited by NewEraCracker
+# Copyfuck © 2023 q
+# Edited by ANAND
 #
 # This script installs, updates and runs LOIC on Linux.
 #
@@ -15,7 +15,7 @@
 # Usage: bash ./loic-net4.0.sh <install|update|run>
 #
 
-GIT_REPO=https://github.com/NewEraCracker/LOIC.git
+GIT_REPO=https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023.git
 GIT_BRANCH=master
 
 DEB_MONO_PKG="monodevelop liblog4net-cil-dev mono-devel mono-runtime-common mono-runtime libmono-system-windows-forms4.0-cil"
