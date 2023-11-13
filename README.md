@@ -22,7 +22,7 @@ http://www.microsoft.com/downloads/en/details.aspx?FamilyID=ab99342f-5d1a-413d-8
 ## HOW TO RUN ON LINUX / MACOSX
 
 Run debug binaries with Mono or Wine.
-Read the wiki at https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023/tree/main for updated instructions.
+Read the wiki at https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023/ for updated instructions.
 
 ## HIVEMIND/HIDDEN MODE
 
