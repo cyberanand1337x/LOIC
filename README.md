@@ -24,7 +24,7 @@ To use the project, follow these steps:
 - `apt update`
 - `apt install git -y`
 - `apt install mono-complete -y`
-- `git clone https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023.git`
+- `git clone https://github.com/cyberanand1337x/Loic.git`
 - `ls`
 - `cd Low-Orbit-Ion-Cannon-2023`
 - `ls`
