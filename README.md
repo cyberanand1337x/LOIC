@@ -103,8 +103,6 @@ To use the project, follow these steps:
 
 - Open the terminal and run the following command:
 - `sudo su`
-- `apt update`
-- `apt install git -y`
 - `apt install mono-complete -y`
 - `git clone https://github.com/cyberanand1337x/Loic.git`
 - `ls`
