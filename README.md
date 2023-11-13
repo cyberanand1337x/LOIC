@@ -104,7 +104,7 @@ To use the project, follow these steps:
 - Open the terminal and run the following command:
 - `sudo su`
 - `apt install mono-complete -y`
-- `git clone https://github.com/cyberanand1337x/Loic.git`
+- `git clone https://github.com/cyberanand1337x/Low-Orbit-Ion-Cannon-2023.git`
 - `ls`
 - `cd Low-Orbit-Ion-Cannon-2023`
 - `ls`
